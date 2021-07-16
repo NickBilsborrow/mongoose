@@ -1,0 +1,25 @@
+{
+  "name": "mongoosecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBilsborrow/mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBilsborrow/mongoose/issues"
+  },
+  "homepage": "https://github.com/NickBilsborrow/mongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.2",
+    "yargs": "^17.0.1"
+  }
+}
